@@ -13,3 +13,7 @@ div.route {
   padding: 10px;
   border: 1px silver solid;
 }
+
+nav {
+  margin: 10px 0;
+}
