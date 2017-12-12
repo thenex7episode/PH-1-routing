@@ -7,3 +7,9 @@ body {
 * > a + a {
   margin-left: 20px;
 }
+
+div.route {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px silver solid;
+}
